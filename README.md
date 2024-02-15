@@ -18,5 +18,5 @@ To get started with the Countdown Timer Project, follow these steps:
 # Building the Project
   The Countdown Timer Project is built using HTML, CSS, and JavaScript. The HTML provides the structure of the page, the CSS styles the elements, and the JavaScript calculates the remaining time and updates the display.
 
-Acknowledgments
+# Acknowledgments
 The Countdown Timer Project was inspired by hackr.io.
